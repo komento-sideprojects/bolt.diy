@@ -94,7 +94,7 @@ export default defineConfig((config) => {
       host: true,
       allowedHosts: [
         'localhost',
-        'boltdiy.mydomain.no'
+        'bolt.fusiontech.asia'
       ],
     },
     build: {
